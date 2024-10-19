@@ -27,7 +27,7 @@ Na API, é possível realizar consultas utilizando apenas o nome de um dos respo
 }
 ```
 
-nstruções para adicionar ao Git
+Instruções para adicionar ao Git
 
 1. Crie um arquivo chamado `README.md` no diretório raiz do seu projeto.
 2. Cole o conteúdo acima no arquivo.
