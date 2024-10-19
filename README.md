@@ -24,16 +24,18 @@ Na API, é possível realizar consultas utilizando apenas o nome de um dos respo
     "cpf": "123.456.789-00",
     "nome": "João Silva",
     "filiacao": ["Marina Silva", "Carla Santos"]
-}'''
+}
+```
 
-### Instruções para adicionar ao Git
+nstruções para adicionar ao Git
 
 1. Crie um arquivo chamado `README.md` no diretório raiz do seu projeto.
 2. Cole o conteúdo acima no arquivo.
 3. Salve o arquivo.
 4. Adicione e comite as mudanças no seu repositório Git:
 
-```bash
+```json
+{
 git add README.md
 git commit -m "Adiciona README com descrição do projeto"
 git push
